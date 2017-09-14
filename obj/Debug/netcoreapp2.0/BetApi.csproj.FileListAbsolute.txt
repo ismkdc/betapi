@@ -1,0 +1,11 @@
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\bin\Debug\netcoreapp2.0\BetApi.deps.json
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\bin\Debug\netcoreapp2.0\BetApi.runtimeconfig.json
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\bin\Debug\netcoreapp2.0\BetApi.runtimeconfig.dev.json
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\bin\Debug\netcoreapp2.0\BetApi.dll
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.csprojResolveAssemblyReference.cache
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.csproj.CoreCompileInputs.cache
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.AssemblyInfoInputs.cache
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.AssemblyInfo.cs
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\bin\Debug\netcoreapp2.0\BetApi.pdb
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.dll
+C:\Users\ismailkundakci\Documents\Visual Studio 2017\Projects\BetApi\BetApi\obj\Debug\netcoreapp2.0\BetApi.pdb
